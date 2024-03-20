@@ -1,0 +1,4 @@
+{
+    "listPayment":["Wells Fargo", "Bank of America", "Sprint", "Apple"],
+    "Account":["Savings","Checking","Loan","Credit Card","Brokerage"]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ZeroWebApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "adit",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.6.4"
+  },
+  "scripts":
+  {
+    "cy:open":"cypress open"
+  }
+}
